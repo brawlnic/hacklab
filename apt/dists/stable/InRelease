@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: brawlnic
+Label: brawlnic vcforge repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: brawlnic personal apt repo (vcf tool)
+Date: Sat, 31 Oct 2026 09:43:58 +0000
+MD5Sum:
+ 95e10c96c9ecf837861e8c5b449becab      601 main/binary-all/Packages
+ 9b08d9b8456edbfcba236c25517434f5      454 main/binary-all/Packages.gz
+SHA1:
+ 5ed6bab59759d8069d8670d73c28acc82ef97ba8      601 main/binary-all/Packages
+ ec89954c596f30b03183190b5f50c55bb6a49159      454 main/binary-all/Packages.gz
+SHA256:
+ d6799895b97b0752fb847ba4e0d7406a2bdd47453aade936b776d3a5444ea18c      601 main/binary-all/Packages
+ 60e3605e092fac619b88be49094a6d5e408dea56d5baad3d663487a5f8830f67      454 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJgEARYKAEAWIQRHuOK2wqPGspPMBZr2OFeJrKlipwUCauW4ZSIcYnJhd2xuaWNA
+dXNlcnMubm9yZXBseS5naXRodWIuY29tAAoJEPY4V4msqWKnzYYA/3Zux3vPYall
+hYyI/8SMurBqs74pYtSlcFgKMsuNgxM9AQDSYwJuPTZoV5YuOA3SaVIGxAHfRKHV
+LUPssLAmtZHkCQ==
+=FBLj
+-----END PGP SIGNATURE-----
