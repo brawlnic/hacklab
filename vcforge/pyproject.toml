@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vcforge"
+version = "0.3.1"
+description = "Forge HS256-signed session tokens (VaultCore lab / CTF use)"
+authors = [{name = "brawlnic"}]
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
+[project.scripts]
+vcforge = "vcforge.cli:main"
+vcf = "vcforge.cli:main"

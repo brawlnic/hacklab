@@ -1,0 +1,17 @@
+# VaultCore Bank - configurazione di produzione
+# BACKUP del 14/03/2023 - NON LASCIARE SUL SERVER!
+# FLAG{r0b0ts_4nd_b4ckup_f1l3s}
+
+[database]
+host = 127.0.0.1
+name = vaultcore
+user = vcore_svc
+pass = Vc0r3_Svc!2023
+
+[session]
+# chiave di firma dei cookie di sessione (formato: payload.signature)
+jwt_secret = vcore_sup3r_s3cr3t_2024
+algo = HS256
+
+[mail]
+smtp = mail.vaultcore.local

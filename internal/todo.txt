@@ -1,0 +1,9 @@
+TODO interno - team sviluppo VaultCore
+======================================
+[ ] Migrare password MD5 -> bcrypt (SEC-114)
+[ ] Rimuovere /backup dalla webroot!!!
+[ ] Fixare la sanitizzazione di /download (filtra ../ una volta sola)
+[ ] Il pannello admin esegue ping con shell=True, valutare rischio
+[x] Audit Q3 completato
+
+FLAG{l0c4l_f1l3_1nclus10n_4tw}

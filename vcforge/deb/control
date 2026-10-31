@@ -1,0 +1,11 @@
+Package: vcf
+Version: 0.3.1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: brawlnic <brawlnic@users.noreply.github.com>
+Depends: python3 (>= 3.8)
+Description: Forge HMAC-SHA256 session tokens (VaultCore lab / CTF)
+ CLI tool: 'vcf'. Forges signed session cookies in the
+ base64url(payload).base64url(hmac) format and optionally
+ performs a GET with the forged cookie.
